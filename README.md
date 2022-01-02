@@ -1,1 +1,0 @@
-# sayisal-analiz-proje
